@@ -10,12 +10,12 @@
 
 <h1>:hammer:Funcionalidades</h1>
 
-<p>A tela inicial contem um modal com login onde o jogador precisa colocar o seu nome com, no mínino, 3 caracteres para habilitar o botão "Iniciar Jogo".</p>
-<p>Ao clicar no botão, aparece um modal com instruções do jogo e um timer de 5 segundos.</p>
-<p>Após os 5 segundos, o jogo começa. Ele contem 2 estrelas, 3 moedas, 1 cano e 1 bala que se movem de forma aleatória e o jogador precisa usar as teclas: "ArrowUp" (para pular), "ArrowDown" (para abaixar) e "Space" (para voar) fazendo o Mario se desviar dos obstáculos e/ou coletar as moedas e estrelas.</p>
-<p>A velocidade do jogo vai aumentando aos poucos para criar um grau de dificuldade.</p>
-<p>Quando um dos obstáculos (cano ou bala) atinge o Mário, ele perde e então aparece um modal de "Game Over" com um botão para reiniciar o jogo e outro botão para a tela de "Ranking".</p>
-<p>Ao clicar no botão "Ranking", aparece um modal com as regras de pontuação e uma lista dos jogadores contendo: a posição de cada jogador, o nome, quantidade de moedas coletadas, quantidade de estrelas coletadas, tempo de duração da partida e a pontuação final de cada jogador.</p>
+<p>:large_blue_diamond: A tela inicial contem um modal com login onde o jogador precisa colocar o seu nome com, no mínino, 3 caracteres para habilitar o botão "Iniciar Jogo".</p>
+<p>:large_blue_diamond: Ao clicar no botão, aparece um modal com instruções do jogo e um timer de 5 segundos.</p>
+<p>:large_blue_diamond: Após os 5 segundos, o jogo começa. Ele contem 2 estrelas, 3 moedas, 1 cano e 1 bala que se movem de forma aleatória e o jogador precisa usar as teclas: "ArrowUp" (para pular), "ArrowDown" (para abaixar) e "Space" (para voar) fazendo o Mario se desviar dos obstáculos e/ou coletar as moedas e estrelas.</p>
+<p>:large_blue_diamond: A velocidade do jogo vai aumentando aos poucos para criar um grau de dificuldade.</p>
+<p>:large_blue_diamond: Quando um dos obstáculos (cano ou bala) atinge o Mário, ele perde e então aparece um modal de "Game Over" com um botão para reiniciar o jogo e outro botão para a tela de "Ranking".</p>
+<p>:large_blue_diamond: Ao clicar no botão "Ranking", aparece um modal com as regras de pontuação e uma lista dos jogadores contendo: a posição de cada jogador, o nome, quantidade de moedas coletadas, quantidade de estrelas coletadas, tempo de duração da partida e a pontuação final de cada jogador.</p>
 
 <h1>🛠️Ferramentas De Desenvolvimento</h1>
 
