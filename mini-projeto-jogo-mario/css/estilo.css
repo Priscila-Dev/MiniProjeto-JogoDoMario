@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cenario {
+  margin: 0;
+  width: 700px;
+  height: 500px;
+  background-image: linear-gradient(#1998D9, white);
+  border: solid 1px red;
+}/*# sourceMappingURL=estilo.css.map */
