@@ -25,7 +25,14 @@ const validarJogador = ({target}) => {
 
             nomeJogador = target.value.trim().toUpperCase();
 
-            console.log(nomeJogador);
+           btnStart.addEventListener('click', start);
+
+            document.addEventListener('keypress', ({key}) => {
+                if (key === 'Enter') {
+
+                    start();
+                }
+            });
 
     }else {
         btnStart.setAttribute('disabled', '');
@@ -34,5 +41,16 @@ const validarJogador = ({target}) => {
 }
 
 inputJogador.addEventListener('input', validarJogador);
+
+const limparTexto = () => {
+    inputJogador.value = '';
+}
+
+const start = () => {
+
+    limparTexto();
+    btnStart.setAttribute('disabled', '');
+    console.log('deu certo')
+};
 
 //modulos.playSom('somAbertura');
